@@ -3,13 +3,14 @@
 @tailwind utilities;
 
 .Logo-Color {
-  color: #008b8b;
+  color: #00b2b2;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
+  font-family: Verdana, Arial;
 }
 
 body {
-  color: #ff0000;
+  color: #008b8b;
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Verdana, Arial;
 }
